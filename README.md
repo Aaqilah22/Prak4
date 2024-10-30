@@ -4,7 +4,7 @@
 
 **Penjelasan :**
 
--**public abstract class BangunDatar**: Mendefinisikan kelas abstrak bernama BangunDatar.
+- **public abstract class BangunDatar**: Mendefinisikan kelas abstrak bernama BangunDatar.
 - **public abstract float luas()**: Metode abstrak untuk menghitung luas bangun datar, yang harus diimplementasikan di kelas turunan.
 - **public abstract float keliling()**: Metode abstrak untuk menghitung keliling bangun datar, yang juga harus diimplementasikan di kelas turunan.
 
