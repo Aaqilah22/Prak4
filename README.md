@@ -1,4 +1,6 @@
 # Praktikum4
+<img width="598" alt="Soal" src="https://github.com/user-attachments/assets/88aa3b6a-c7f8-4d44-8a99-e53f18896fd0">
+
 ## 1. Membuat Class BangunDatar
 <img width="298" alt="BangunDatar" src="https://github.com/user-attachments/assets/17677e10-6775-4793-856f-96d0f2bdddf9">
 
